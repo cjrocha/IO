@@ -1,0 +1,90 @@
+Mar 28, 2022 11:15:28 PM ro.siit.io.App main
+INFO: App just started
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1827
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  20
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1755
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  40
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1810
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  0
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1635
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  60
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1887
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  20
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1827
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  20
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1755
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  40
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1810
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  0
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1635
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  60
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Reading input data by line
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getSeconds
+INFO: Athlete time in seconds is: 1887
+Mar 28, 2022 11:15:28 PM ro.siit.io.Athlete getPenalties
+INFO: Athlete penalties are:  20
+Mar 28, 2022 11:15:28 PM ro.siit.io.ReadInput readInputData
+INFO: Input data succesfully added to Athlete object.
+Mar 28, 2022 11:15:28 PM ro.siit.io.App main
+INFO: Data sorted is: 
+[AthleteNumber=3, AthleteName='John Moore', CountryCode='US', SkiTimeResult=27:15, FirstShootingRange='oxoox', SecondShootingRange='xooxo', ThirdShootingeRange='xoxxo', Total Time after Penalties=1695}
+, AthleteNumber=1, AthleteName='Jimmy Smiles', CountryCode='UK', SkiTimeResult=29:15, FirstShootingRange='xxoox', SecondShootingRange='xooxo', ThirdShootingeRange='xxxxo', Total Time after Penalties=1795}
+, AthleteNumber=27, AthleteName='Piotr Smitzer', CountryCode='CZ', SkiTimeResult=30:10, FirstShootingRange='xxxxx', SecondShootingRange='xxxxx', ThirdShootingeRange='xxxxx', Total Time after Penalties=1810}
+, AthleteNumber=11, AthleteName='Umar Jorgson', CountryCode='SK', SkiTimeResult=30:27, FirstShootingRange='xxxox', SecondShootingRange='xxxxx', ThirdShootingeRange='xxoxo', Total Time after Penalties=1847}
+, AthleteNumber=17, AthleteName='Omar Orthen', CountryCode='AL', SkiTimeResult=31:27, FirstShootingRange='xxxox', SecondShootingRange='xxxxx', ThirdShootingeRange='xxox', Total Time after Penalties=1907}
+]
