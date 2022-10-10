@@ -1,4 +1,4 @@
-# IO Homework:
+# IO in Java:
 
 Ski Biathlon Standings
 
